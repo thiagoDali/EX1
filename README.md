@@ -1,4 +1,4 @@
 # EX1
 ex1_thiago
 
-ver[aquí](https://thiagodali.github.io/EX1/)
+ver [aquí](https://thiagodali.github.io/EX1/)
